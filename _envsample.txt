@@ -1,0 +1,3 @@
+MMONGO_URL = url de mongo
+DB_COLLECTION_NAME_1 = nombre de la coleccion
+DB_NAME = nombre de la base de datos
